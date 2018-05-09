@@ -1,0 +1,12 @@
+{
+    "name": "demo/test",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/liuxianglong/test2"
+        }
+    ],
+    "require": {
+        "demo/test": "dev-master"
+    }
+}
